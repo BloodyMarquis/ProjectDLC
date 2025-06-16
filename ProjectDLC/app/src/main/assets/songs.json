@@ -1,0 +1,62 @@
+[
+  {
+    "token": "chartreusegreen",
+    "rank": 1,
+    "title": "Chartreuse Green",
+    "artist": "t+pazolite",
+    "bpm": "180",
+    "sun": 1,
+    "twi": 4,
+    "mid": 7,
+    "aby": 11,
+    "tre": -1
+  },
+  {
+    "token": "marchenseeker",
+    "rank": 1,
+    "title": "メルヘンシーカー",
+    "artist": "MendoZID",
+    "bpm": "180",
+    "sun": 1,
+    "twi": 4,
+    "mid": 7,
+    "aby": 11,
+    "tre": -1
+  },
+  {
+    "token": "riddimbard",
+    "rank": 1,
+    "title": "Riddim Bard",
+    "artist": "MusikPanzer",
+    "bpm": "180",
+    "sun": 1,
+    "twi": 4,
+    "mid": 7,
+    "aby": 11,
+    "tre": -1
+  },
+  {
+    "token": "forestofclock",
+    "rank": 1,
+    "title": "Forest of Clock",
+    "artist": "ARForest",
+    "bpm": "180",
+    "sun": 1,
+    "twi": 4,
+    "mid": 7,
+    "aby": 11,
+    "tre": -1
+  },
+  {
+    "token": "ablackcatsdream",
+    "rank": 1,
+    "title": "A Black Cat's Dream",
+    "artist": "TΛRRΣT",
+    "bpm": "180",
+    "sun": 1,
+    "twi": 4,
+    "mid": 7,
+    "aby": 11,
+    "tre": -1
+  }
+]

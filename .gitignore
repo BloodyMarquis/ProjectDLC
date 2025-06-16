@@ -1,12 +1,18 @@
 # Gradle files
 .gradle/
+gradle/
+*/build/
 build/
+outputs/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
+Thumbs.db
+ehthumbs.db
 
 # Android Studio generated files and folders
 captures/
@@ -28,6 +34,17 @@ render.experimental.xml
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+firebase/
+
+# Crashlytics
+crashlytics/
+fabric/
 
 # Android Profiling
 *.hprof
+
+# React Native (if applicable)
+node_modules/
+
+# VS Code
+.vscode/
